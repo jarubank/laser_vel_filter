@@ -1,0 +1,4 @@
+<launch>
+
+    <node pkg="laser_vel_filter" type="vel_filter_server" name="laser_vel_filter"/>
+</launch>
